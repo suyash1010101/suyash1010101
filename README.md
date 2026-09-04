@@ -53,7 +53,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm an <b>IT / Computer Science Engineering graduate</b> interested in 
+  I'm an <b> Computer Science Engineering graduate</b> interested in 
   <b>Software Development, Data Analytics, Python and AI-powered solutions</b>.
 </p>
 
